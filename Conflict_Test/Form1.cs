@@ -19,7 +19,7 @@ namespace Conflict_Test
 
         private void simpleButton1_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("AAA");
+            Console.WriteLine("AAA"); Console.WriteLine("AAA");
             Console.WriteLine("BBB"); Console.WriteLine("BBB");
             Console.WriteLine("CCC");
         }
